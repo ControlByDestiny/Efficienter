@@ -1,2 +1,3 @@
-[Ctrl]+[P]
-[Ctrl]+[/]
+# ShortCuts
+
+`Ctrl` + `P`
